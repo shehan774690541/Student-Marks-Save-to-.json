@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chappie",
+        "first_Subject": "100",
+        "secound_Subject": "80",
+        "third_Subject": "50"
+    },
+    {
+        "name": "shehan",
+        "first_Subject": "99",
+        "secound_Subject": "100",
+        "third_Subject": "60"
+    },
+    {
+        "name": "thilina",
+        "first_Subject": "80",
+        "secound_Subject": "70",
+        "third_Subject": "90"
+    },
+    {
+        "name": "kalana",
+        "first_Subject": "99",
+        "secound_Subject": "88",
+        "third_Subject": "77"
+    }
+]
