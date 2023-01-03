@@ -14,10 +14,10 @@ A command line application that can search an unlimited number of marks of stude
 <li>Current number of students and student with highest marks can be viewed</li>
 <li>Exit the progran</li>
 
-<h2>How To Run</h2>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<h2>Add Data</h2>
+<li>Enter number 2</li>
+<li>enter the student name</li>
+<li>enter marks of subject 1 and press enter</li>
+<li>enter marks of subject 2 and press enter</li>
+<li>enter marks of subject 3 and press enter</li>
 <li></li>
