@@ -20,4 +20,10 @@ A command line application that can search an unlimited number of marks of stude
 <li>enter marks of subject 1 and press enter</li>
 <li>enter marks of subject 2 and press enter</li>
 <li>enter marks of subject 3 and press enter</li>
-<li></li>
+
+<h2>Delet Data</h2>
+<li>Enter number 3 and open delet menu</li>
+<li>enter the index number in student</li>
+
+<h2>View Of application</h2>
+<img src="img/regestry.png">
