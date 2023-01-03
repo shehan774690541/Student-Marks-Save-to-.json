@@ -72,7 +72,7 @@ def add_data():
     ithem_data["third_Subject"] = input("Enter marks of third subject: ")
 
     temp.append(ithem_data)
-    with open (filename, "w") as f:
+    with open (Data, "w") as f:
         json.dump(temp, f, indent=4)
     print("\n")
 
