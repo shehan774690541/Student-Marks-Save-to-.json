@@ -8,7 +8,7 @@ def Choices():
     print("(1) View Data")
     print("(2) Add Data")
     print("(3) Delete Data")
-    print("(4) Delete Data")
+    print("(4) final Data")
     print("(5) Exit")
 
 def view_data():
